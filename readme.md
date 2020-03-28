@@ -9,7 +9,7 @@ Version 1.0.0
 
 ##### Additions (Core Extention)
 
-* Author: [Nathan Macnamara](https://github.com/nathanmac "Nathan Macnamara")
+* Author: [Jcsoft](https://github.com/jcsofts "Jcsoft")
 
 
 ## Public Methods
